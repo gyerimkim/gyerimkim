@@ -1,4 +1,4 @@
-👋 Hi, I’m gyerim
-👀 I’m interested in FE
-🌱 I’m currently learning JS, TS, React
-📫 How to reach me gyerim.k@gmail.com
+👋 Hi, I’m gyerim  
+👀 I’m interested in FE  
+🌱 I’m currently learning JS, TS, React  
+📫 How to reach me gyerim.k@gmail.com  
